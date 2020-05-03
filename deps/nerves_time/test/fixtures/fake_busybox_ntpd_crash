@@ -1,5 +1,0 @@
-#!/bin/sh
-
-# This script simulates ntpd exiting which would be unexpected
-
-exit 1
