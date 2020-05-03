@@ -1,0 +1,9 @@
+{application,barometer,
+             [{applications,[kernel,stdlib,elixir,logger,runtime_tools,
+                             ring_logger,shoehorn,nerves_runtime,toolshed,
+                             elixir_ale,nerves_pack]},
+              {description,"barometer"},
+              {modules,['Elixir.Barometer','Elixir.Barometer.Application']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.Barometer.Application',[]}}]}.
