@@ -5,7 +5,7 @@ Build using Nerves 1.6, Elixir ALE 1.2 , and Elixir 1.10.3.
 
 Guideline for this app is based on Elixir Conf 2017 by Frank Hunleth.
 
-Later on, i'll try to continue to be able accessing on all sensors within Envirophat, and perhaps make an IoT based environment data gatherer for my home.cd
+Later on, i'll try to continue to be able accessing on all sensors within Envirophat, and perhaps make an IoT based environment data gatherer for my home.
 
 ## Targets
 
